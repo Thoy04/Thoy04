@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyler Hoyle</h1>
-<h3 align="center">A passionate Masters in Data Science Student in San Diego</h3>
+<h3 align="center">A passionate MS in Data Science Student in San Diego</h3>
 
 - 🔭 I’m currently working on **my capstone project!**
 
