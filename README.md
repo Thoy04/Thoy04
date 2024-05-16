@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **predicting sports outcomes!**
 
-- 🌱 I’m currently learning **about LLM development.**
+- 🌱 I’m currently learning about **LLM development.**
 
 - 👯 I’m looking to collaborate on **open-source AI/ML projects**
 
