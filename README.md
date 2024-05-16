@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tyler Hoyle</h1>
-<h3 align="center">A passionate MS in Data Science Student in San Diego</h3>
+<h3 align="center">A passionate MS in Data Science Graduate in San Diego</h3>
 
-- 🔭 I’m currently working on **my capstone project!**
+- 🔭 I’m currently working on **predicting sports outcomes!**
 
-- 🌱 I’m currently learning **advanced feature engineering and selection**
+- 🌱 I’m currently learning **about LLM development.**
 
 - 👯 I’m looking to collaborate on **open-source AI/ML projects**
 
