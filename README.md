@@ -9,6 +9,27 @@
 
 - 📫 How to reach me **thoyle28@gmail.com**
 
+<h3 align="left">Current Projects:</h3>
+- Optimizing NBA Rosters to Maximize Win Percentage
+  Completed: 
+    - Gathered data team level four factors data from nba_api
+    - Modelled four factors ability to predict win%
+  Next Steps:
+    - Model players' impact on four factors
+    - Optimize roster to maximize predicted win%
+
+- Vacation Planning Buddy Application:
+  Next Steps:
+      - Create custom GPT focused on vacation planning
+      - Gather data from vacation rental sites based on criteria
+  
+
+<h3 align="left">Recent Projects:</h3>
+- Predict the Winner of the NBA’s Most Improved Player Award 
+  - Gathered data from Kaggle and the nba_api
+  - Used feature engineering to create important features and SMOTE to handle imbalanced data
+  - Trained and tested six models on available data, with the best models correctly predicting the winner 78% of the time.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tyler-hoyle-69a38a15b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tyler-hoyle-69a38a15b" height="30" width="40" /></a>
